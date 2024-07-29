@@ -78,7 +78,7 @@ a {
 
 .btn-default:hover,
 .btn-default:focus {
-  color: #404bbf;
+  background-color: #404bbf;
 }
 
 .heading-advatages {
